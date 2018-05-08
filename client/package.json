@@ -1,5 +1,5 @@
 {
-  "name": "vegetarian_eater",
+  "name": "eat-well-app",
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:3001",
