@@ -28,7 +28,7 @@ componentDidMount() {
                                 Eat Well
                             </Title>
                             <SubTitle>
-                                A faster route to kinder food.
+                                A Faster Route to Kinder Food.
                             </SubTitle>
                             </Container>
                         </Hero.Body>
