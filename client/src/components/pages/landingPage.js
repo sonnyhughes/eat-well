@@ -19,7 +19,7 @@ componentDidMount() {
 
             <div style={{display:"flex", height:"100%"}}>
 
-                <Section style={{height:"100vh", width:"50%", backgroundImage:"url(https://shk-images.s3.amazonaws.com/wp-content/uploads/2014/09/SHK-Veggie-Stuffed-Chow-Mein-4.jpg)", backgroundPosition:"center", backgroundRepeat:"None", backgroundSize:"cover", position:"relative"}}>
+                <Section style={{height:"100vh", width:"50%", backgroundImage:"url(https://www.theroastedroot.net/wp-content/uploads/2017/02/Vegetarian-Mason-Jar-Burrito-6424.jpg)", backgroundPosition:"center", backgroundRepeat:"None", backgroundSize:"cover", position:"relative"}}>
 
                     <Hero style={{position:"absolute", bottom:"40%", background:"rgba(255,255,255,0.9)", width:"75%"}}>
                         <Hero.Body >
