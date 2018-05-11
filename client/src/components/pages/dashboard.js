@@ -54,7 +54,7 @@ findrec()
             <Card style={{width:"30%"}} className="restaurantCard">
 
 
-                <Card.Image src='https://i.pinimg.com/564x/dd/e9/07/dde9074f2c35ca171766d307b542823e.jpg' square='128by128'  />
+                <Card.Image src='https://www.abeautifulplate.com/wp-content/uploads/2017/03/roated-beet-salad-orange-avocado-1-12.jpg' square='128by128'  />
                 <Card.Content>
                     <Content>
                         <Link to={`${match.url}/find-restaurants`}>Find Restaurants</Link>
@@ -65,7 +65,7 @@ findrec()
 
             <Card style={{width:"30%"}} className="restaurantCard">
 
-                <Card.Image src='https://www.superhealthykids.com/wp-content/uploads/2017/03/Instant-Pot-Risotto-19-768x1152.jpg' square='128by128'  />
+                <Card.Image src='https://minimalistbaker.com/wp-content/uploads/2015/09/AMAZING-10-Ingredient-Butternut-Squash-and-Vegetable-Pizza-vegan-recipe-pizza-fall-butternutsquash-healthy-dinner.jpg' square='128by128'  />
                 <Card.Content>
                     <Content>
                         <Link to={`${match.url}/find-recipes`}>Find Recipes</Link>
@@ -76,7 +76,7 @@ findrec()
 
             <Card style={{width:"30%"}} className="restaurantCard">
 
-                <Card.Image src='https://www.superhealthykids.com/wp-content/uploads/2016/09/butternutsquashsoup-4-768x1152.jpg' square='128by128'  />
+                <Card.Image src='https://www.abeautifulplate.com/wp-content/uploads/2016/04/vegan-garam-masala-carrot-soup-1-20-600x900.jpg' square='128by128'  />
                 <Card.Content>
                     <Content>
                         <Link to={`${match.url}/post-recipes`}>Post Recipes</Link>
@@ -86,7 +86,7 @@ findrec()
             </Card>
         </Container>
 
-        <Section style={{backgroundColor: "hsl(48, 100%, 67%)", marginTop:"1.5%"}}>
+        <Section style={{backgroundColor: "hsl(118, 43%, 57%)", marginTop:"1.5%"}}>
 
             <Card style={{display: "flex", justifyContent: "space-evenly", width: "65%",
                 margin: "0 auto"}}>

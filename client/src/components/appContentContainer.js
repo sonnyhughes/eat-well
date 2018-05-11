@@ -28,11 +28,11 @@ class appContainer extends React.Component {
         return(
 
             <div>
-                <Level style={{marginBottom: "1.5%", padding: "1.5%", backgroundColor: "hsl(171, 100%, 41%)", color: "white"}}>
+                <Level style={{marginBottom: "1.5%", padding: "1.5%", backgroundColor: "hsl(118, 43%, 57%)", color: "white"}}>
                     <Level.Left>
                         <Level.Item>
                             <SubTitle is='5'>
-                                <a> <strong style={{fontSize: "25px", color: "white"}} onClick={this.goHome} >Eat Well</strong></a>
+                                <a> <strong style={{fontSize: "34px", color: "white"}} onClick={this.goHome} >Eat Well</strong></a>
                             </SubTitle>
                         </Level.Item>
                     </Level.Left>
