@@ -86,7 +86,7 @@ findrec()
             </Card>
         </Container>
 
-        <Section style={{backgroundColor: "hsl(118, 43%, 57%)", marginTop:"1.5%"}}>
+        <Section style={{backgroundColor: "hsl(101,51%,60%)", marginTop:"1.5%"}}>
 
             <Card style={{display: "flex", justifyContent: "space-evenly", width: "65%",
                 margin: "0 auto"}}>
