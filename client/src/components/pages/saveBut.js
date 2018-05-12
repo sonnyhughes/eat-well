@@ -10,7 +10,7 @@ class SaveButton extends Component {
         super(props)
         this.state={
             clicked: 'false',
-            text: 'Save?',
+            text: 'Save',
             value:'not saved',
             saved:[],
             unsaved:[]
@@ -37,7 +37,7 @@ class SaveButton extends Component {
     	  if(this.state.clicked == 'true'){
       	    this.setState({ 
       		      clicked: 'false',
-                text: 'Save?',
+                text: 'Save',
                 value: 'not saved'
       	    });
             console.log(this.props.uid)
@@ -46,7 +46,7 @@ class SaveButton extends Component {
         else if (this.state.clicked =='false'){
       	    this.setState({
         	      clicked: 'true',
-                text: 'Unsave?',
+                text: 'Unsave',
                 value:'saved'
       	    });
             console.log(this.props.uid)

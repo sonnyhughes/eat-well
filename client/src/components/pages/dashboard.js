@@ -91,12 +91,12 @@ findrec()
             <Card style={{display: "flex", justifyContent: "space-evenly", width: "65%",
                 margin: "0 auto"}}>
 
-                <Image style = {{width:"75%", margin:"0px"}} src="https://shk-images.s3.amazonaws.com/wp-content/uploads/2017/10/chocolate-hummus-square-1024x1024.jpg" />
+                <Image style = {{width:"75%", margin:"0px"}} src="https://www.vibrantplate.com/wp-content/uploads/2017/05/Soba-noodles-salad-05.jpg" />
 
                 <Container style = {{marginLeft:"5%", marginTop:"4%"}} >
                     <Title>Just added</Title>
                     <SubTitle>
-                        Creamy, rich, and chocolatey, just-sweet-enough <strong>Healthy Chocolate Hummus</strong> makes an excitingly different dip for fresh fruit or warm pitas.
+                        Delicious <strong>Springtime Soba Noodles</strong> with mushrooms, carrots, and spinach.
                     </SubTitle>
                 </Container>
 
@@ -105,12 +105,12 @@ findrec()
             <Card style={{display: "flex", justifyContent: "space-evenly", width: "65%",
                 margin: "0 auto", marginTop:"1%"}}>
 
-                <Image style = {{width:"75%", margin:"0px"}} src="https://shk-images.s3.amazonaws.com/wp-content/uploads/2011/08/carrot-cake-french-toast-sticks-12-1024x1024.jpg" />
+                <Image style = {{width:"75%", margin:"0px"}} src="https://farmpickedforyou.com/wp-content/uploads/2017/08/Veggie-Tacos-Recipe-6.jpg" />
 
                 <Container style = {{marginLeft:"5%", marginTop:"4%"}} >
                     <Title>Recently searched</Title>
                     <SubTitle>
-                        Creamy, rich, and chocolatey, just-sweet-enough <strong>Healthy Chocolate Hummus</strong> makes an excitingly different dip for fresh fruit or warm pitas.
+                        Savory <strong>Chickpea Masala</strong> makes for the perfect weeknight dinner.
                     </SubTitle>
                 </Container>
 
